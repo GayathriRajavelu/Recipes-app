@@ -37,7 +37,9 @@ https://documenter.getpostman.com/view/50931750/2sBXVZpa6S
 🚀 Deployment
 Deployed the API using
 
-Render https://nodejs-day-4-8jzh.onrender.com
+Render
+
+https://recipes-app-uncg.onrender.com
 
 Authors
 Gayathri
